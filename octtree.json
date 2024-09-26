@@ -1,0 +1,3298 @@
+{
+  "boundary": {
+    "center": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "half_size": 1000.0
+  },
+  "capacity": 4,
+  "points": [],
+  "divided": true,
+  "fne": {
+    "boundary": {
+      "center": {
+        "x": 500.0,
+        "y": -500.0,
+        "z": 500.0
+      },
+      "half_size": 500.0
+    },
+    "capacity": 4,
+    "points": [],
+    "divided": true,
+    "fne": {
+      "boundary": {
+        "center": {
+          "x": 750.0,
+          "y": -750.0,
+          "z": 750.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [],
+      "divided": false,
+      "fne": null,
+      "fnw": null,
+      "fse": null,
+      "fsw": null,
+      "bne": null,
+      "bnw": null,
+      "bse": null,
+      "bsw": null
+    },
+    "fnw": {
+      "boundary": {
+        "center": {
+          "x": 250.0,
+          "y": -750.0,
+          "z": 750.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [],
+      "divided": false,
+      "fne": null,
+      "fnw": null,
+      "fse": null,
+      "fsw": null,
+      "bne": null,
+      "bnw": null,
+      "bse": null,
+      "bsw": null
+    },
+    "fse": {
+      "boundary": {
+        "center": {
+          "x": 750.0,
+          "y": -250.0,
+          "z": 750.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [],
+      "divided": false,
+      "fne": null,
+      "fnw": null,
+      "fse": null,
+      "fsw": null,
+      "bne": null,
+      "bnw": null,
+      "bse": null,
+      "bsw": null
+    },
+    "fsw": {
+      "boundary": {
+        "center": {
+          "x": 250.0,
+          "y": -250.0,
+          "z": 750.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [
+        {
+          "x": 120.56626419237368,
+          "y": -464.1539099828405,
+          "z": 875.8954509211857
+        }
+      ],
+      "divided": false,
+      "fne": null,
+      "fnw": null,
+      "fse": null,
+      "fsw": null,
+      "bne": null,
+      "bnw": null,
+      "bse": null,
+      "bsw": null
+    },
+    "bne": {
+      "boundary": {
+        "center": {
+          "x": 750.0,
+          "y": -750.0,
+          "z": 250.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [
+        {
+          "x": 868.1908093496111,
+          "y": -741.6646366295648,
+          "z": 2.0486374689541154
+        }
+      ],
+      "divided": false,
+      "fne": null,
+      "fnw": null,
+      "fse": null,
+      "fsw": null,
+      "bne": null,
+      "bnw": null,
+      "bse": null,
+      "bsw": null
+    },
+    "bnw": {
+      "boundary": {
+        "center": {
+          "x": 250.0,
+          "y": -750.0,
+          "z": 250.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [],
+      "divided": false,
+      "fne": null,
+      "fnw": null,
+      "fse": null,
+      "fsw": null,
+      "bne": null,
+      "bnw": null,
+      "bse": null,
+      "bsw": null
+    },
+    "bse": {
+      "boundary": {
+        "center": {
+          "x": 750.0,
+          "y": -250.0,
+          "z": 250.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [
+        {
+          "x": 695.2862018119675,
+          "y": -33.460426423937896,
+          "z": 463.4587182910219
+        },
+        {
+          "x": 654.4054307025675,
+          "y": -415.8061378553162,
+          "z": 186.2581466274336
+        }
+      ],
+      "divided": false,
+      "fne": null,
+      "fnw": null,
+      "fse": null,
+      "fsw": null,
+      "bne": null,
+      "bnw": null,
+      "bse": null,
+      "bsw": null
+    },
+    "bsw": {
+      "boundary": {
+        "center": {
+          "x": 250.0,
+          "y": -250.0,
+          "z": 250.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [],
+      "divided": true,
+      "fne": {
+        "boundary": {
+          "center": {
+            "x": 375.0,
+            "y": -375.0,
+            "z": 375.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [],
+        "divided": false,
+        "fne": null,
+        "fnw": null,
+        "fse": null,
+        "fsw": null,
+        "bne": null,
+        "bnw": null,
+        "bse": null,
+        "bsw": null
+      },
+      "fnw": {
+        "boundary": {
+          "center": {
+            "x": 125.0,
+            "y": -375.0,
+            "z": 375.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [],
+        "divided": false,
+        "fne": null,
+        "fnw": null,
+        "fse": null,
+        "fsw": null,
+        "bne": null,
+        "bnw": null,
+        "bse": null,
+        "bsw": null
+      },
+      "fse": {
+        "boundary": {
+          "center": {
+            "x": 375.0,
+            "y": -125.0,
+            "z": 375.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [],
+        "divided": false,
+        "fne": null,
+        "fnw": null,
+        "fse": null,
+        "fsw": null,
+        "bne": null,
+        "bnw": null,
+        "bse": null,
+        "bsw": null
+      },
+      "fsw": {
+        "boundary": {
+          "center": {
+            "x": 125.0,
+            "y": -125.0,
+            "z": 375.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [
+          {
+            "x": 40.498482615156426,
+            "y": -86.32934208299048,
+            "z": 295.9632810222847
+          },
+          {
+            "x": 62.920120428680065,
+            "y": -207.53427233170436,
+            "z": 300.1139568965735
+          },
+          {
+            "x": 85.24509991898,
+            "y": -61.97847467459982,
+            "z": 324.9539539724136
+          }
+        ],
+        "divided": false,
+        "fne": null,
+        "fnw": null,
+        "fse": null,
+        "fsw": null,
+        "bne": null,
+        "bnw": null,
+        "bse": null,
+        "bsw": null
+      },
+      "bne": {
+        "boundary": {
+          "center": {
+            "x": 375.0,
+            "y": -375.0,
+            "z": 125.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [],
+        "divided": false,
+        "fne": null,
+        "fnw": null,
+        "fse": null,
+        "fsw": null,
+        "bne": null,
+        "bnw": null,
+        "bse": null,
+        "bsw": null
+      },
+      "bnw": {
+        "boundary": {
+          "center": {
+            "x": 125.0,
+            "y": -375.0,
+            "z": 125.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [
+          {
+            "x": 67.70877000330633,
+            "y": -452.4466106030596,
+            "z": 132.1484317468757
+          }
+        ],
+        "divided": false,
+        "fne": null,
+        "fnw": null,
+        "fse": null,
+        "fsw": null,
+        "bne": null,
+        "bnw": null,
+        "bse": null,
+        "bsw": null
+      },
+      "bse": {
+        "boundary": {
+          "center": {
+            "x": 375.0,
+            "y": -125.0,
+            "z": 125.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [
+          {
+            "x": 376.3292034585973,
+            "y": -198.88162259704944,
+            "z": 185.9364987728332
+          },
+          {
+            "x": 261.0303673436344,
+            "y": -135.43157667402494,
+            "z": 121.83685197019865
+          }
+        ],
+        "divided": false,
+        "fne": null,
+        "fnw": null,
+        "fse": null,
+        "fsw": null,
+        "bne": null,
+        "bnw": null,
+        "bse": null,
+        "bsw": null
+      },
+      "bsw": {
+        "boundary": {
+          "center": {
+            "x": 125.0,
+            "y": -125.0,
+            "z": 125.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [
+          {
+            "x": 44.97681445890732,
+            "y": -67.94186148380635,
+            "z": 221.11574976061252
+          },
+          {
+            "x": 48.73986428122659,
+            "y": -236.89605217735672,
+            "z": 146.5767621087128
+          },
+          {
+            "x": 9.85315403580244,
+            "y": -102.52277558890263,
+            "z": 43.247485460521155
+          }
+        ],
+        "divided": false,
+        "fne": null,
+        "fnw": null,
+        "fse": null,
+        "fsw": null,
+        "bne": null,
+        "bnw": null,
+        "bse": null,
+        "bsw": null
+      }
+    }
+  },
+  "fnw": {
+    "boundary": {
+      "center": {
+        "x": -500.0,
+        "y": -500.0,
+        "z": 500.0
+      },
+      "half_size": 500.0
+    },
+    "capacity": 4,
+    "points": [],
+    "divided": true,
+    "fne": {
+      "boundary": {
+        "center": {
+          "x": -250.0,
+          "y": -750.0,
+          "z": 750.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [],
+      "divided": false,
+      "fne": null,
+      "fnw": null,
+      "fse": null,
+      "fsw": null,
+      "bne": null,
+      "bnw": null,
+      "bse": null,
+      "bsw": null
+    },
+    "fnw": {
+      "boundary": {
+        "center": {
+          "x": -750.0,
+          "y": -750.0,
+          "z": 750.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [],
+      "divided": false,
+      "fne": null,
+      "fnw": null,
+      "fse": null,
+      "fsw": null,
+      "bne": null,
+      "bnw": null,
+      "bse": null,
+      "bsw": null
+    },
+    "fse": {
+      "boundary": {
+        "center": {
+          "x": -250.0,
+          "y": -250.0,
+          "z": 750.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [],
+      "divided": false,
+      "fne": null,
+      "fnw": null,
+      "fse": null,
+      "fsw": null,
+      "bne": null,
+      "bnw": null,
+      "bse": null,
+      "bsw": null
+    },
+    "fsw": {
+      "boundary": {
+        "center": {
+          "x": -750.0,
+          "y": -250.0,
+          "z": 750.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [],
+      "divided": false,
+      "fne": null,
+      "fnw": null,
+      "fse": null,
+      "fsw": null,
+      "bne": null,
+      "bnw": null,
+      "bse": null,
+      "bsw": null
+    },
+    "bne": {
+      "boundary": {
+        "center": {
+          "x": -250.0,
+          "y": -750.0,
+          "z": 250.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [
+        {
+          "x": -41.08445875012603,
+          "y": -733.7715006335447,
+          "z": 9.364898276197588
+        },
+        {
+          "x": -108.75858570786026,
+          "y": -801.3729305036178,
+          "z": 70.69623130870197
+        },
+        {
+          "x": -154.8040144624993,
+          "y": -532.1979763005587,
+          "z": 53.25184393463787
+        },
+        {
+          "x": -19.14852004587575,
+          "y": -513.1071849149532,
+          "z": 135.87128274636257
+        }
+      ],
+      "divided": false,
+      "fne": null,
+      "fnw": null,
+      "fse": null,
+      "fsw": null,
+      "bne": null,
+      "bnw": null,
+      "bse": null,
+      "bsw": null
+    },
+    "bnw": {
+      "boundary": {
+        "center": {
+          "x": -750.0,
+          "y": -750.0,
+          "z": 250.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [
+        {
+          "x": -735.3770371680947,
+          "y": -724.2570563096856,
+          "z": 66.71936166184544
+        }
+      ],
+      "divided": false,
+      "fne": null,
+      "fnw": null,
+      "fse": null,
+      "fsw": null,
+      "bne": null,
+      "bnw": null,
+      "bse": null,
+      "bsw": null
+    },
+    "bse": {
+      "boundary": {
+        "center": {
+          "x": -250.0,
+          "y": -250.0,
+          "z": 250.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [],
+      "divided": true,
+      "fne": {
+        "boundary": {
+          "center": {
+            "x": -125.0,
+            "y": -375.0,
+            "z": 375.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [],
+        "divided": false,
+        "fne": null,
+        "fnw": null,
+        "fse": null,
+        "fsw": null,
+        "bne": null,
+        "bnw": null,
+        "bse": null,
+        "bsw": null
+      },
+      "fnw": {
+        "boundary": {
+          "center": {
+            "x": -375.0,
+            "y": -375.0,
+            "z": 375.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [
+          {
+            "x": -329.79601418945083,
+            "y": -461.88934980178544,
+            "z": 330.5942065362389
+          }
+        ],
+        "divided": false,
+        "fne": null,
+        "fnw": null,
+        "fse": null,
+        "fsw": null,
+        "bne": null,
+        "bnw": null,
+        "bse": null,
+        "bsw": null
+      },
+      "fse": {
+        "boundary": {
+          "center": {
+            "x": -125.0,
+            "y": -125.0,
+            "z": 375.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [
+          {
+            "x": -74.33505299455777,
+            "y": -13.583730032763064,
+            "z": 432.2046973641271
+          }
+        ],
+        "divided": false,
+        "fne": null,
+        "fnw": null,
+        "fse": null,
+        "fsw": null,
+        "bne": null,
+        "bnw": null,
+        "bse": null,
+        "bsw": null
+      },
+      "fsw": {
+        "boundary": {
+          "center": {
+            "x": -375.0,
+            "y": -125.0,
+            "z": 375.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [],
+        "divided": false,
+        "fne": null,
+        "fnw": null,
+        "fse": null,
+        "fsw": null,
+        "bne": null,
+        "bnw": null,
+        "bse": null,
+        "bsw": null
+      },
+      "bne": {
+        "boundary": {
+          "center": {
+            "x": -125.0,
+            "y": -375.0,
+            "z": 125.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [],
+        "divided": false,
+        "fne": null,
+        "fnw": null,
+        "fse": null,
+        "fsw": null,
+        "bne": null,
+        "bnw": null,
+        "bse": null,
+        "bsw": null
+      },
+      "bnw": {
+        "boundary": {
+          "center": {
+            "x": -375.0,
+            "y": -375.0,
+            "z": 125.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [],
+        "divided": false,
+        "fne": null,
+        "fnw": null,
+        "fse": null,
+        "fsw": null,
+        "bne": null,
+        "bnw": null,
+        "bse": null,
+        "bsw": null
+      },
+      "bse": {
+        "boundary": {
+          "center": {
+            "x": -125.0,
+            "y": -125.0,
+            "z": 125.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [
+          {
+            "x": -20.64327969410715,
+            "y": -87.19868925524588,
+            "z": 71.4867606403521
+          },
+          {
+            "x": -101.61681510851619,
+            "y": -53.27943023533339,
+            "z": 213.32517203881682
+          }
+        ],
+        "divided": false,
+        "fne": null,
+        "fnw": null,
+        "fse": null,
+        "fsw": null,
+        "bne": null,
+        "bnw": null,
+        "bse": null,
+        "bsw": null
+      },
+      "bsw": {
+        "boundary": {
+          "center": {
+            "x": -375.0,
+            "y": -125.0,
+            "z": 125.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [
+          {
+            "x": -299.02686217905114,
+            "y": -50.45517516789652,
+            "z": 216.16269172141864
+          },
+          {
+            "x": -499.81391140615455,
+            "y": -36.90499800115598,
+            "z": 249.88328569081835
+          },
+          {
+            "x": -442.2501650277438,
+            "y": -182.07053325794237,
+            "z": 46.52063869610288
+          },
+          {
+            "x": -368.0949912115098,
+            "y": -142.56356405003208,
+            "z": 92.2318130947128
+          }
+        ],
+        "divided": false,
+        "fne": null,
+        "fnw": null,
+        "fse": null,
+        "fsw": null,
+        "bne": null,
+        "bnw": null,
+        "bse": null,
+        "bsw": null
+      }
+    },
+    "bsw": {
+      "boundary": {
+        "center": {
+          "x": -750.0,
+          "y": -250.0,
+          "z": 250.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [
+        {
+          "x": -633.2785726572474,
+          "y": -346.3660896138759,
+          "z": 249.46504022828046
+        },
+        {
+          "x": -745.4116250220926,
+          "y": -444.04843441907843,
+          "z": 58.89150997629179
+        },
+        {
+          "x": -571.6078637247234,
+          "y": -126.73506172743309,
+          "z": 35.15792937074138
+        }
+      ],
+      "divided": false,
+      "fne": null,
+      "fnw": null,
+      "fse": null,
+      "fsw": null,
+      "bne": null,
+      "bnw": null,
+      "bse": null,
+      "bsw": null
+    }
+  },
+  "fse": {
+    "boundary": {
+      "center": {
+        "x": 500.0,
+        "y": 500.0,
+        "z": 500.0
+      },
+      "half_size": 500.0
+    },
+    "capacity": 4,
+    "points": [],
+    "divided": true,
+    "fne": {
+      "boundary": {
+        "center": {
+          "x": 750.0,
+          "y": 250.0,
+          "z": 750.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [],
+      "divided": false,
+      "fne": null,
+      "fnw": null,
+      "fse": null,
+      "fsw": null,
+      "bne": null,
+      "bnw": null,
+      "bse": null,
+      "bsw": null
+    },
+    "fnw": {
+      "boundary": {
+        "center": {
+          "x": 250.0,
+          "y": 250.0,
+          "z": 750.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [
+        {
+          "x": 66.23601634841022,
+          "y": 57.165983248551974,
+          "z": 572.4725387420879
+        }
+      ],
+      "divided": false,
+      "fne": null,
+      "fnw": null,
+      "fse": null,
+      "fsw": null,
+      "bne": null,
+      "bnw": null,
+      "bse": null,
+      "bsw": null
+    },
+    "fse": {
+      "boundary": {
+        "center": {
+          "x": 750.0,
+          "y": 750.0,
+          "z": 750.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [],
+      "divided": false,
+      "fne": null,
+      "fnw": null,
+      "fse": null,
+      "fsw": null,
+      "bne": null,
+      "bnw": null,
+      "bse": null,
+      "bsw": null
+    },
+    "fsw": {
+      "boundary": {
+        "center": {
+          "x": 250.0,
+          "y": 750.0,
+          "z": 750.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [],
+      "divided": false,
+      "fne": null,
+      "fnw": null,
+      "fse": null,
+      "fsw": null,
+      "bne": null,
+      "bnw": null,
+      "bse": null,
+      "bsw": null
+    },
+    "bne": {
+      "boundary": {
+        "center": {
+          "x": 750.0,
+          "y": 250.0,
+          "z": 250.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [
+        {
+          "x": 610.5302177147679,
+          "y": 175.0367208739921,
+          "z": 43.371464528875
+        }
+      ],
+      "divided": false,
+      "fne": null,
+      "fnw": null,
+      "fse": null,
+      "fsw": null,
+      "bne": null,
+      "bnw": null,
+      "bse": null,
+      "bsw": null
+    },
+    "bnw": {
+      "boundary": {
+        "center": {
+          "x": 250.0,
+          "y": 250.0,
+          "z": 250.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [],
+      "divided": true,
+      "fne": {
+        "boundary": {
+          "center": {
+            "x": 375.0,
+            "y": 125.0,
+            "z": 375.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [
+          {
+            "x": 451.388341936862,
+            "y": 163.34619421383593,
+            "z": 316.2309989609698
+          }
+        ],
+        "divided": false,
+        "fne": null,
+        "fnw": null,
+        "fse": null,
+        "fsw": null,
+        "bne": null,
+        "bnw": null,
+        "bse": null,
+        "bsw": null
+      },
+      "fnw": {
+        "boundary": {
+          "center": {
+            "x": 125.0,
+            "y": 125.0,
+            "z": 375.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [],
+        "divided": false,
+        "fne": null,
+        "fnw": null,
+        "fse": null,
+        "fsw": null,
+        "bne": null,
+        "bnw": null,
+        "bse": null,
+        "bsw": null
+      },
+      "fse": {
+        "boundary": {
+          "center": {
+            "x": 375.0,
+            "y": 375.0,
+            "z": 375.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [],
+        "divided": false,
+        "fne": null,
+        "fnw": null,
+        "fse": null,
+        "fsw": null,
+        "bne": null,
+        "bnw": null,
+        "bse": null,
+        "bsw": null
+      },
+      "fsw": {
+        "boundary": {
+          "center": {
+            "x": 125.0,
+            "y": 375.0,
+            "z": 375.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [
+          {
+            "x": 114.2192666486719,
+            "y": 268.8495245406507,
+            "z": 365.0727063476649
+          }
+        ],
+        "divided": false,
+        "fne": null,
+        "fnw": null,
+        "fse": null,
+        "fsw": null,
+        "bne": null,
+        "bnw": null,
+        "bse": null,
+        "bsw": null
+      },
+      "bne": {
+        "boundary": {
+          "center": {
+            "x": 375.0,
+            "y": 125.0,
+            "z": 125.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [
+          {
+            "x": 480.88831442270487,
+            "y": 19.59642531120663,
+            "z": 91.99903287614067
+          },
+          {
+            "x": 398.1594940455403,
+            "y": 174.3777805844793,
+            "z": 11.23595754320064
+          }
+        ],
+        "divided": false,
+        "fne": null,
+        "fnw": null,
+        "fse": null,
+        "fsw": null,
+        "bne": null,
+        "bnw": null,
+        "bse": null,
+        "bsw": null
+      },
+      "bnw": {
+        "boundary": {
+          "center": {
+            "x": 125.0,
+            "y": 125.0,
+            "z": 125.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [
+          {
+            "x": 184.71637154744573,
+            "y": 86.85039388075649,
+            "z": 237.14472883864903
+          },
+          {
+            "x": 5.732058132553488,
+            "y": 214.8405773213373,
+            "z": 163.9700198924088
+          }
+        ],
+        "divided": false,
+        "fne": null,
+        "fnw": null,
+        "fse": null,
+        "fsw": null,
+        "bne": null,
+        "bnw": null,
+        "bse": null,
+        "bsw": null
+      },
+      "bse": {
+        "boundary": {
+          "center": {
+            "x": 375.0,
+            "y": 375.0,
+            "z": 125.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [],
+        "divided": false,
+        "fne": null,
+        "fnw": null,
+        "fse": null,
+        "fsw": null,
+        "bne": null,
+        "bnw": null,
+        "bse": null,
+        "bsw": null
+      },
+      "bsw": {
+        "boundary": {
+          "center": {
+            "x": 125.0,
+            "y": 375.0,
+            "z": 125.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [
+          {
+            "x": 116.73512251864923,
+            "y": 442.3745617509269,
+            "z": 161.10079820414984
+          },
+          {
+            "x": 102.30644262985665,
+            "y": 317.4964749352384,
+            "z": 77.09433320147518
+          }
+        ],
+        "divided": false,
+        "fne": null,
+        "fnw": null,
+        "fse": null,
+        "fsw": null,
+        "bne": null,
+        "bnw": null,
+        "bse": null,
+        "bsw": null
+      }
+    },
+    "bse": {
+      "boundary": {
+        "center": {
+          "x": 750.0,
+          "y": 750.0,
+          "z": 250.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [],
+      "divided": false,
+      "fne": null,
+      "fnw": null,
+      "fse": null,
+      "fsw": null,
+      "bne": null,
+      "bnw": null,
+      "bse": null,
+      "bsw": null
+    },
+    "bsw": {
+      "boundary": {
+        "center": {
+          "x": 250.0,
+          "y": 750.0,
+          "z": 250.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [],
+      "divided": false,
+      "fne": null,
+      "fnw": null,
+      "fse": null,
+      "fsw": null,
+      "bne": null,
+      "bnw": null,
+      "bse": null,
+      "bsw": null
+    }
+  },
+  "fsw": {
+    "boundary": {
+      "center": {
+        "x": -500.0,
+        "y": 500.0,
+        "z": 500.0
+      },
+      "half_size": 500.0
+    },
+    "capacity": 4,
+    "points": [],
+    "divided": true,
+    "fne": {
+      "boundary": {
+        "center": {
+          "x": -250.0,
+          "y": 250.0,
+          "z": 750.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [],
+      "divided": false,
+      "fne": null,
+      "fnw": null,
+      "fse": null,
+      "fsw": null,
+      "bne": null,
+      "bnw": null,
+      "bse": null,
+      "bsw": null
+    },
+    "fnw": {
+      "boundary": {
+        "center": {
+          "x": -750.0,
+          "y": 250.0,
+          "z": 750.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [],
+      "divided": false,
+      "fne": null,
+      "fnw": null,
+      "fse": null,
+      "fsw": null,
+      "bne": null,
+      "bnw": null,
+      "bse": null,
+      "bsw": null
+    },
+    "fse": {
+      "boundary": {
+        "center": {
+          "x": -250.0,
+          "y": 750.0,
+          "z": 750.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [],
+      "divided": false,
+      "fne": null,
+      "fnw": null,
+      "fse": null,
+      "fsw": null,
+      "bne": null,
+      "bnw": null,
+      "bse": null,
+      "bsw": null
+    },
+    "fsw": {
+      "boundary": {
+        "center": {
+          "x": -750.0,
+          "y": 750.0,
+          "z": 750.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [],
+      "divided": false,
+      "fne": null,
+      "fnw": null,
+      "fse": null,
+      "fsw": null,
+      "bne": null,
+      "bnw": null,
+      "bse": null,
+      "bsw": null
+    },
+    "bne": {
+      "boundary": {
+        "center": {
+          "x": -250.0,
+          "y": 250.0,
+          "z": 250.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [],
+      "divided": true,
+      "fne": {
+        "boundary": {
+          "center": {
+            "x": -125.0,
+            "y": 125.0,
+            "z": 375.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [
+          {
+            "x": -47.76843314556733,
+            "y": 55.994721769057605,
+            "z": 492.7158265959639
+          }
+        ],
+        "divided": false,
+        "fne": null,
+        "fnw": null,
+        "fse": null,
+        "fsw": null,
+        "bne": null,
+        "bnw": null,
+        "bse": null,
+        "bsw": null
+      },
+      "fnw": {
+        "boundary": {
+          "center": {
+            "x": -375.0,
+            "y": 125.0,
+            "z": 375.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [],
+        "divided": false,
+        "fne": null,
+        "fnw": null,
+        "fse": null,
+        "fsw": null,
+        "bne": null,
+        "bnw": null,
+        "bse": null,
+        "bsw": null
+      },
+      "fse": {
+        "boundary": {
+          "center": {
+            "x": -125.0,
+            "y": 375.0,
+            "z": 375.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [
+          {
+            "x": -96.78724518321631,
+            "y": 400.2617342750352,
+            "z": 443.43446640778393
+          },
+          {
+            "x": -221.65789557280453,
+            "y": 265.4769688472163,
+            "z": 350.5443337963428
+          }
+        ],
+        "divided": false,
+        "fne": null,
+        "fnw": null,
+        "fse": null,
+        "fsw": null,
+        "bne": null,
+        "bnw": null,
+        "bse": null,
+        "bsw": null
+      },
+      "fsw": {
+        "boundary": {
+          "center": {
+            "x": -375.0,
+            "y": 375.0,
+            "z": 375.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [],
+        "divided": false,
+        "fne": null,
+        "fnw": null,
+        "fse": null,
+        "fsw": null,
+        "bne": null,
+        "bnw": null,
+        "bse": null,
+        "bsw": null
+      },
+      "bne": {
+        "boundary": {
+          "center": {
+            "x": -125.0,
+            "y": 125.0,
+            "z": 125.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [
+          {
+            "x": -52.76751950663049,
+            "y": 39.23758478424114,
+            "z": 13.47677504801466
+          },
+          {
+            "x": -241.21833788192833,
+            "y": 208.9113528601981,
+            "z": 39.954485985748185
+          }
+        ],
+        "divided": false,
+        "fne": null,
+        "fnw": null,
+        "fse": null,
+        "fsw": null,
+        "bne": null,
+        "bnw": null,
+        "bse": null,
+        "bsw": null
+      },
+      "bnw": {
+        "boundary": {
+          "center": {
+            "x": -375.0,
+            "y": 125.0,
+            "z": 125.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [
+          {
+            "x": -432.1799553891678,
+            "y": 141.82966746108707,
+            "z": 42.918478853028496
+          }
+        ],
+        "divided": false,
+        "fne": null,
+        "fnw": null,
+        "fse": null,
+        "fsw": null,
+        "bne": null,
+        "bnw": null,
+        "bse": null,
+        "bsw": null
+      },
+      "bse": {
+        "boundary": {
+          "center": {
+            "x": -125.0,
+            "y": 375.0,
+            "z": 125.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [
+          {
+            "x": -133.32615223473837,
+            "y": 266.5313559969646,
+            "z": 151.37054874533564
+          }
+        ],
+        "divided": false,
+        "fne": null,
+        "fnw": null,
+        "fse": null,
+        "fsw": null,
+        "bne": null,
+        "bnw": null,
+        "bse": null,
+        "bsw": null
+      },
+      "bsw": {
+        "boundary": {
+          "center": {
+            "x": -375.0,
+            "y": 375.0,
+            "z": 125.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [],
+        "divided": false,
+        "fne": null,
+        "fnw": null,
+        "fse": null,
+        "fsw": null,
+        "bne": null,
+        "bnw": null,
+        "bse": null,
+        "bsw": null
+      }
+    },
+    "bnw": {
+      "boundary": {
+        "center": {
+          "x": -750.0,
+          "y": 250.0,
+          "z": 250.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [
+        {
+          "x": -550.7103874651325,
+          "y": 74.30261489811245,
+          "z": 196.45514837131444
+        },
+        {
+          "x": -511.3098144038383,
+          "y": 321.13715642010993,
+          "z": 42.06677667948136
+        }
+      ],
+      "divided": false,
+      "fne": null,
+      "fnw": null,
+      "fse": null,
+      "fsw": null,
+      "bne": null,
+      "bnw": null,
+      "bse": null,
+      "bsw": null
+    },
+    "bse": {
+      "boundary": {
+        "center": {
+          "x": -250.0,
+          "y": 750.0,
+          "z": 250.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [
+        {
+          "x": -275.6866501188226,
+          "y": 624.2465129420265,
+          "z": 370.9862412779296
+        }
+      ],
+      "divided": false,
+      "fne": null,
+      "fnw": null,
+      "fse": null,
+      "fsw": null,
+      "bne": null,
+      "bnw": null,
+      "bse": null,
+      "bsw": null
+    },
+    "bsw": {
+      "boundary": {
+        "center": {
+          "x": -750.0,
+          "y": 750.0,
+          "z": 250.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [],
+      "divided": false,
+      "fne": null,
+      "fnw": null,
+      "fse": null,
+      "fsw": null,
+      "bne": null,
+      "bnw": null,
+      "bse": null,
+      "bsw": null
+    }
+  },
+  "bne": {
+    "boundary": {
+      "center": {
+        "x": 500.0,
+        "y": -500.0,
+        "z": -500.0
+      },
+      "half_size": 500.0
+    },
+    "capacity": 4,
+    "points": [],
+    "divided": true,
+    "fne": {
+      "boundary": {
+        "center": {
+          "x": 750.0,
+          "y": -750.0,
+          "z": -250.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [
+        {
+          "x": 512.5735977670017,
+          "y": -627.6454522760872,
+          "z": -125.68646479383273
+        }
+      ],
+      "divided": false,
+      "fne": null,
+      "fnw": null,
+      "fse": null,
+      "fsw": null,
+      "bne": null,
+      "bnw": null,
+      "bse": null,
+      "bsw": null
+    },
+    "fnw": {
+      "boundary": {
+        "center": {
+          "x": 250.0,
+          "y": -750.0,
+          "z": -250.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [],
+      "divided": false,
+      "fne": null,
+      "fnw": null,
+      "fse": null,
+      "fsw": null,
+      "bne": null,
+      "bnw": null,
+      "bse": null,
+      "bsw": null
+    },
+    "fse": {
+      "boundary": {
+        "center": {
+          "x": 750.0,
+          "y": -250.0,
+          "z": -250.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [
+        {
+          "x": 688.6650146943447,
+          "y": -92.07634494958984,
+          "z": -74.42642971643886
+        },
+        {
+          "x": 521.5574361673173,
+          "y": -101.66290648044334,
+          "z": -28.120395183233423
+        }
+      ],
+      "divided": false,
+      "fne": null,
+      "fnw": null,
+      "fse": null,
+      "fsw": null,
+      "bne": null,
+      "bnw": null,
+      "bse": null,
+      "bsw": null
+    },
+    "fsw": {
+      "boundary": {
+        "center": {
+          "x": 250.0,
+          "y": -250.0,
+          "z": -250.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [],
+      "divided": true,
+      "fne": {
+        "boundary": {
+          "center": {
+            "x": 375.0,
+            "y": -375.0,
+            "z": -125.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [],
+        "divided": false,
+        "fne": null,
+        "fnw": null,
+        "fse": null,
+        "fsw": null,
+        "bne": null,
+        "bnw": null,
+        "bse": null,
+        "bsw": null
+      },
+      "fnw": {
+        "boundary": {
+          "center": {
+            "x": 125.0,
+            "y": -375.0,
+            "z": -125.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [],
+        "divided": false,
+        "fne": null,
+        "fnw": null,
+        "fse": null,
+        "fsw": null,
+        "bne": null,
+        "bnw": null,
+        "bse": null,
+        "bsw": null
+      },
+      "fse": {
+        "boundary": {
+          "center": {
+            "x": 375.0,
+            "y": -125.0,
+            "z": -125.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [
+          {
+            "x": 339.0112603753191,
+            "y": -109.86976946152383,
+            "z": -52.72752524427892
+          }
+        ],
+        "divided": false,
+        "fne": null,
+        "fnw": null,
+        "fse": null,
+        "fsw": null,
+        "bne": null,
+        "bnw": null,
+        "bse": null,
+        "bsw": null
+      },
+      "fsw": {
+        "boundary": {
+          "center": {
+            "x": 125.0,
+            "y": -125.0,
+            "z": -125.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [
+          {
+            "x": 201.98015447491574,
+            "y": -206.44482726920037,
+            "z": -220.33235790613926
+          },
+          {
+            "x": 28.43474840641563,
+            "y": -82.02967748585276,
+            "z": -11.87685395260419
+          },
+          {
+            "x": 79.40447428494338,
+            "y": -132.65027597033372,
+            "z": -33.720616411743215
+          }
+        ],
+        "divided": false,
+        "fne": null,
+        "fnw": null,
+        "fse": null,
+        "fsw": null,
+        "bne": null,
+        "bnw": null,
+        "bse": null,
+        "bsw": null
+      },
+      "bne": {
+        "boundary": {
+          "center": {
+            "x": 375.0,
+            "y": -375.0,
+            "z": -375.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [
+          {
+            "x": 266.70586477900235,
+            "y": -312.66554718456234,
+            "z": -287.4122974948752
+          }
+        ],
+        "divided": false,
+        "fne": null,
+        "fnw": null,
+        "fse": null,
+        "fsw": null,
+        "bne": null,
+        "bnw": null,
+        "bse": null,
+        "bsw": null
+      },
+      "bnw": {
+        "boundary": {
+          "center": {
+            "x": 125.0,
+            "y": -375.0,
+            "z": -375.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [],
+        "divided": false,
+        "fne": null,
+        "fnw": null,
+        "fse": null,
+        "fsw": null,
+        "bne": null,
+        "bnw": null,
+        "bse": null,
+        "bsw": null
+      },
+      "bse": {
+        "boundary": {
+          "center": {
+            "x": 375.0,
+            "y": -125.0,
+            "z": -375.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [
+          {
+            "x": 355.21305234552705,
+            "y": -74.55512037861904,
+            "z": -261.44815171781624
+          }
+        ],
+        "divided": false,
+        "fne": null,
+        "fnw": null,
+        "fse": null,
+        "fsw": null,
+        "bne": null,
+        "bnw": null,
+        "bse": null,
+        "bsw": null
+      },
+      "bsw": {
+        "boundary": {
+          "center": {
+            "x": 125.0,
+            "y": -125.0,
+            "z": -375.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [
+          {
+            "x": 27.34749334794519,
+            "y": -199.92337761212255,
+            "z": -282.30337646840457
+          }
+        ],
+        "divided": false,
+        "fne": null,
+        "fnw": null,
+        "fse": null,
+        "fsw": null,
+        "bne": null,
+        "bnw": null,
+        "bse": null,
+        "bsw": null
+      }
+    },
+    "bne": {
+      "boundary": {
+        "center": {
+          "x": 750.0,
+          "y": -750.0,
+          "z": -750.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [],
+      "divided": false,
+      "fne": null,
+      "fnw": null,
+      "fse": null,
+      "fsw": null,
+      "bne": null,
+      "bnw": null,
+      "bse": null,
+      "bsw": null
+    },
+    "bnw": {
+      "boundary": {
+        "center": {
+          "x": 250.0,
+          "y": -750.0,
+          "z": -750.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [],
+      "divided": false,
+      "fne": null,
+      "fnw": null,
+      "fse": null,
+      "fsw": null,
+      "bne": null,
+      "bnw": null,
+      "bse": null,
+      "bsw": null
+    },
+    "bse": {
+      "boundary": {
+        "center": {
+          "x": 750.0,
+          "y": -250.0,
+          "z": -750.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [],
+      "divided": false,
+      "fne": null,
+      "fnw": null,
+      "fse": null,
+      "fsw": null,
+      "bne": null,
+      "bnw": null,
+      "bse": null,
+      "bsw": null
+    },
+    "bsw": {
+      "boundary": {
+        "center": {
+          "x": 250.0,
+          "y": -250.0,
+          "z": -750.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [
+        {
+          "x": 110.24200939358009,
+          "y": -479.1109500407758,
+          "z": -909.458610709802
+        },
+        {
+          "x": 488.56734547910173,
+          "y": -28.649652531622177,
+          "z": -595.1342126496679
+        },
+        {
+          "x": 5.107721291069904,
+          "y": -137.2217860704504,
+          "z": -794.633852143473
+        }
+      ],
+      "divided": false,
+      "fne": null,
+      "fnw": null,
+      "fse": null,
+      "fsw": null,
+      "bne": null,
+      "bnw": null,
+      "bse": null,
+      "bsw": null
+    }
+  },
+  "bnw": {
+    "boundary": {
+      "center": {
+        "x": -500.0,
+        "y": -500.0,
+        "z": -500.0
+      },
+      "half_size": 500.0
+    },
+    "capacity": 4,
+    "points": [],
+    "divided": true,
+    "fne": {
+      "boundary": {
+        "center": {
+          "x": -250.0,
+          "y": -750.0,
+          "z": -250.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [
+        {
+          "x": -101.12224773171862,
+          "y": -836.8587005794637,
+          "z": -459.24125880093777
+        },
+        {
+          "x": -444.9563131455787,
+          "y": -604.6961907897364,
+          "z": -320.190566413099
+        },
+        {
+          "x": -71.1033337239427,
+          "y": -571.910627254912,
+          "z": -36.806965578531596
+        },
+        {
+          "x": -193.5901672046863,
+          "y": -537.6695568226418,
+          "z": -227.79334978474722
+        }
+      ],
+      "divided": false,
+      "fne": null,
+      "fnw": null,
+      "fse": null,
+      "fsw": null,
+      "bne": null,
+      "bnw": null,
+      "bse": null,
+      "bsw": null
+    },
+    "fnw": {
+      "boundary": {
+        "center": {
+          "x": -750.0,
+          "y": -750.0,
+          "z": -250.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [],
+      "divided": false,
+      "fne": null,
+      "fnw": null,
+      "fse": null,
+      "fsw": null,
+      "bne": null,
+      "bnw": null,
+      "bse": null,
+      "bsw": null
+    },
+    "fse": {
+      "boundary": {
+        "center": {
+          "x": -250.0,
+          "y": -250.0,
+          "z": -250.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [],
+      "divided": true,
+      "fne": {
+        "boundary": {
+          "center": {
+            "x": -125.0,
+            "y": -375.0,
+            "z": -125.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [
+          {
+            "x": -180.7540996072491,
+            "y": -329.8729136337298,
+            "z": -163.56067344057854
+          },
+          {
+            "x": -54.51658539595975,
+            "y": -300.7756688205294,
+            "z": -62.93900785693025
+          },
+          {
+            "x": -187.7167695176843,
+            "y": -262.9008687293709,
+            "z": -156.80542511065497
+          }
+        ],
+        "divided": false,
+        "fne": null,
+        "fnw": null,
+        "fse": null,
+        "fsw": null,
+        "bne": null,
+        "bnw": null,
+        "bse": null,
+        "bsw": null
+      },
+      "fnw": {
+        "boundary": {
+          "center": {
+            "x": -375.0,
+            "y": -375.0,
+            "z": -125.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [
+          {
+            "x": -309.6591148485464,
+            "y": -388.9052210883415,
+            "z": -122.88306087012441
+          },
+          {
+            "x": -260.1599124988511,
+            "y": -390.97768461521457,
+            "z": -63.421698715890365
+          }
+        ],
+        "divided": false,
+        "fne": null,
+        "fnw": null,
+        "fse": null,
+        "fsw": null,
+        "bne": null,
+        "bnw": null,
+        "bse": null,
+        "bsw": null
+      },
+      "fse": {
+        "boundary": {
+          "center": {
+            "x": -125.0,
+            "y": -125.0,
+            "z": -125.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [
+          {
+            "x": -31.42077777005956,
+            "y": -71.23798481824497,
+            "z": -196.6291977684521
+          }
+        ],
+        "divided": false,
+        "fne": null,
+        "fnw": null,
+        "fse": null,
+        "fsw": null,
+        "bne": null,
+        "bnw": null,
+        "bse": null,
+        "bsw": null
+      },
+      "fsw": {
+        "boundary": {
+          "center": {
+            "x": -375.0,
+            "y": -125.0,
+            "z": -125.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [],
+        "divided": false,
+        "fne": null,
+        "fnw": null,
+        "fse": null,
+        "fsw": null,
+        "bne": null,
+        "bnw": null,
+        "bse": null,
+        "bsw": null
+      },
+      "bne": {
+        "boundary": {
+          "center": {
+            "x": -125.0,
+            "y": -375.0,
+            "z": -375.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [],
+        "divided": false,
+        "fne": null,
+        "fnw": null,
+        "fse": null,
+        "fsw": null,
+        "bne": null,
+        "bnw": null,
+        "bse": null,
+        "bsw": null
+      },
+      "bnw": {
+        "boundary": {
+          "center": {
+            "x": -375.0,
+            "y": -375.0,
+            "z": -375.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [],
+        "divided": false,
+        "fne": null,
+        "fnw": null,
+        "fse": null,
+        "fsw": null,
+        "bne": null,
+        "bnw": null,
+        "bse": null,
+        "bsw": null
+      },
+      "bse": {
+        "boundary": {
+          "center": {
+            "x": -125.0,
+            "y": -125.0,
+            "z": -375.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [],
+        "divided": false,
+        "fne": null,
+        "fnw": null,
+        "fse": null,
+        "fsw": null,
+        "bne": null,
+        "bnw": null,
+        "bse": null,
+        "bsw": null
+      },
+      "bsw": {
+        "boundary": {
+          "center": {
+            "x": -375.0,
+            "y": -125.0,
+            "z": -375.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [
+          {
+            "x": -455.0271503741415,
+            "y": -9.176958640747745,
+            "z": -294.7061650571055
+          }
+        ],
+        "divided": false,
+        "fne": null,
+        "fnw": null,
+        "fse": null,
+        "fsw": null,
+        "bne": null,
+        "bnw": null,
+        "bse": null,
+        "bsw": null
+      }
+    },
+    "fsw": {
+      "boundary": {
+        "center": {
+          "x": -750.0,
+          "y": -250.0,
+          "z": -250.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [],
+      "divided": false,
+      "fne": null,
+      "fnw": null,
+      "fse": null,
+      "fsw": null,
+      "bne": null,
+      "bnw": null,
+      "bse": null,
+      "bsw": null
+    },
+    "bne": {
+      "boundary": {
+        "center": {
+          "x": -250.0,
+          "y": -750.0,
+          "z": -750.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [],
+      "divided": false,
+      "fne": null,
+      "fnw": null,
+      "fse": null,
+      "fsw": null,
+      "bne": null,
+      "bnw": null,
+      "bse": null,
+      "bsw": null
+    },
+    "bnw": {
+      "boundary": {
+        "center": {
+          "x": -750.0,
+          "y": -750.0,
+          "z": -750.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [],
+      "divided": false,
+      "fne": null,
+      "fnw": null,
+      "fse": null,
+      "fsw": null,
+      "bne": null,
+      "bnw": null,
+      "bse": null,
+      "bsw": null
+    },
+    "bse": {
+      "boundary": {
+        "center": {
+          "x": -250.0,
+          "y": -250.0,
+          "z": -750.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [
+        {
+          "x": -380.25588697744587,
+          "y": -188.89375378580695,
+          "z": -595.161827104765
+        },
+        {
+          "x": -29.85401982101114,
+          "y": -58.81946889092257,
+          "z": -863.1943483438108
+        }
+      ],
+      "divided": false,
+      "fne": null,
+      "fnw": null,
+      "fse": null,
+      "fsw": null,
+      "bne": null,
+      "bnw": null,
+      "bse": null,
+      "bsw": null
+    },
+    "bsw": {
+      "boundary": {
+        "center": {
+          "x": -750.0,
+          "y": -250.0,
+          "z": -750.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [],
+      "divided": false,
+      "fne": null,
+      "fnw": null,
+      "fse": null,
+      "fsw": null,
+      "bne": null,
+      "bnw": null,
+      "bse": null,
+      "bsw": null
+    }
+  },
+  "bse": {
+    "boundary": {
+      "center": {
+        "x": 500.0,
+        "y": 500.0,
+        "z": -500.0
+      },
+      "half_size": 500.0
+    },
+    "capacity": 4,
+    "points": [],
+    "divided": true,
+    "fne": {
+      "boundary": {
+        "center": {
+          "x": 750.0,
+          "y": 250.0,
+          "z": -250.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [
+        {
+          "x": 583.798364226942,
+          "y": 402.7639302057034,
+          "z": -52.76834809695573
+        }
+      ],
+      "divided": false,
+      "fne": null,
+      "fnw": null,
+      "fse": null,
+      "fsw": null,
+      "bne": null,
+      "bnw": null,
+      "bse": null,
+      "bsw": null
+    },
+    "fnw": {
+      "boundary": {
+        "center": {
+          "x": 250.0,
+          "y": 250.0,
+          "z": -250.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [],
+      "divided": true,
+      "fne": {
+        "boundary": {
+          "center": {
+            "x": 375.0,
+            "y": 125.0,
+            "z": -125.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [
+          {
+            "x": 427.5859780512901,
+            "y": 81.00466129151626,
+            "z": -142.9106057344173
+          }
+        ],
+        "divided": false,
+        "fne": null,
+        "fnw": null,
+        "fse": null,
+        "fsw": null,
+        "bne": null,
+        "bnw": null,
+        "bse": null,
+        "bsw": null
+      },
+      "fnw": {
+        "boundary": {
+          "center": {
+            "x": 125.0,
+            "y": 125.0,
+            "z": -125.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [],
+        "divided": true,
+        "fne": {
+          "boundary": {
+            "center": {
+              "x": 187.5,
+              "y": 62.5,
+              "z": -62.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [],
+          "divided": false,
+          "fne": null,
+          "fnw": null,
+          "fse": null,
+          "fsw": null,
+          "bne": null,
+          "bnw": null,
+          "bse": null,
+          "bsw": null
+        },
+        "fnw": {
+          "boundary": {
+            "center": {
+              "x": 62.5,
+              "y": 62.5,
+              "z": -62.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [],
+          "divided": false,
+          "fne": null,
+          "fnw": null,
+          "fse": null,
+          "fsw": null,
+          "bne": null,
+          "bnw": null,
+          "bse": null,
+          "bsw": null
+        },
+        "fse": {
+          "boundary": {
+            "center": {
+              "x": 187.5,
+              "y": 187.5,
+              "z": -62.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [],
+          "divided": false,
+          "fne": null,
+          "fnw": null,
+          "fse": null,
+          "fsw": null,
+          "bne": null,
+          "bnw": null,
+          "bse": null,
+          "bsw": null
+        },
+        "fsw": {
+          "boundary": {
+            "center": {
+              "x": 62.5,
+              "y": 187.5,
+              "z": -62.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [],
+          "divided": false,
+          "fne": null,
+          "fnw": null,
+          "fse": null,
+          "fsw": null,
+          "bne": null,
+          "bnw": null,
+          "bse": null,
+          "bsw": null
+        },
+        "bne": {
+          "boundary": {
+            "center": {
+              "x": 187.5,
+              "y": 62.5,
+              "z": -187.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [],
+          "divided": false,
+          "fne": null,
+          "fnw": null,
+          "fse": null,
+          "fsw": null,
+          "bne": null,
+          "bnw": null,
+          "bse": null,
+          "bsw": null
+        },
+        "bnw": {
+          "boundary": {
+            "center": {
+              "x": 62.5,
+              "y": 62.5,
+              "z": -187.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [
+            {
+              "x": 55.474024572279646,
+              "y": 34.71475236476214,
+              "z": -237.30304094837703
+            },
+            {
+              "x": 93.39156956017958,
+              "y": 70.6036651612794,
+              "z": -182.87073149198446
+            }
+          ],
+          "divided": false,
+          "fne": null,
+          "fnw": null,
+          "fse": null,
+          "fsw": null,
+          "bne": null,
+          "bnw": null,
+          "bse": null,
+          "bsw": null
+        },
+        "bse": {
+          "boundary": {
+            "center": {
+              "x": 187.5,
+              "y": 187.5,
+              "z": -187.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [
+            {
+              "x": 228.10908003430126,
+              "y": 184.28186219096582,
+              "z": -143.95314059634114
+            }
+          ],
+          "divided": false,
+          "fne": null,
+          "fnw": null,
+          "fse": null,
+          "fsw": null,
+          "bne": null,
+          "bnw": null,
+          "bse": null,
+          "bsw": null
+        },
+        "bsw": {
+          "boundary": {
+            "center": {
+              "x": 62.5,
+              "y": 187.5,
+              "z": -187.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [
+            {
+              "x": 56.14852695676048,
+              "y": 187.10469120069894,
+              "z": -135.30008633558222
+            },
+            {
+              "x": 13.763336381550065,
+              "y": 164.90414849806407,
+              "z": -227.5558607209271
+            },
+            {
+              "x": 14.548571588050217,
+              "y": 201.56580318346298,
+              "z": -130.6819570405231
+            }
+          ],
+          "divided": false,
+          "fne": null,
+          "fnw": null,
+          "fse": null,
+          "fsw": null,
+          "bne": null,
+          "bnw": null,
+          "bse": null,
+          "bsw": null
+        }
+      },
+      "fse": {
+        "boundary": {
+          "center": {
+            "x": 375.0,
+            "y": 375.0,
+            "z": -125.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [
+          {
+            "x": 411.41867823251016,
+            "y": 385.94905634639133,
+            "z": -61.150792837972034
+          }
+        ],
+        "divided": false,
+        "fne": null,
+        "fnw": null,
+        "fse": null,
+        "fsw": null,
+        "bne": null,
+        "bnw": null,
+        "bse": null,
+        "bsw": null
+      },
+      "fsw": {
+        "boundary": {
+          "center": {
+            "x": 125.0,
+            "y": 375.0,
+            "z": -125.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [
+          {
+            "x": 148.64746950994277,
+            "y": 262.2122780862369,
+            "z": -11.956512289255661
+          },
+          {
+            "x": 50.45491024216471,
+            "y": 269.8511346274364,
+            "z": -85.26978144067427
+          },
+          {
+            "x": 147.5824985946243,
+            "y": 257.2453851216428,
+            "z": -38.97273075446098
+          }
+        ],
+        "divided": false,
+        "fne": null,
+        "fnw": null,
+        "fse": null,
+        "fsw": null,
+        "bne": null,
+        "bnw": null,
+        "bse": null,
+        "bsw": null
+      },
+      "bne": {
+        "boundary": {
+          "center": {
+            "x": 375.0,
+            "y": 125.0,
+            "z": -375.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [],
+        "divided": false,
+        "fne": null,
+        "fnw": null,
+        "fse": null,
+        "fsw": null,
+        "bne": null,
+        "bnw": null,
+        "bse": null,
+        "bsw": null
+      },
+      "bnw": {
+        "boundary": {
+          "center": {
+            "x": 125.0,
+            "y": 125.0,
+            "z": -375.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [
+          {
+            "x": 57.70191170208705,
+            "y": 167.7923630170386,
+            "z": -271.3713623371567
+          }
+        ],
+        "divided": false,
+        "fne": null,
+        "fnw": null,
+        "fse": null,
+        "fsw": null,
+        "bne": null,
+        "bnw": null,
+        "bse": null,
+        "bsw": null
+      },
+      "bse": {
+        "boundary": {
+          "center": {
+            "x": 375.0,
+            "y": 375.0,
+            "z": -375.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [],
+        "divided": false,
+        "fne": null,
+        "fnw": null,
+        "fse": null,
+        "fsw": null,
+        "bne": null,
+        "bnw": null,
+        "bse": null,
+        "bsw": null
+      },
+      "bsw": {
+        "boundary": {
+          "center": {
+            "x": 125.0,
+            "y": 375.0,
+            "z": -375.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [
+          {
+            "x": 75.91204256993751,
+            "y": 404.09429627238626,
+            "z": -436.52381337725956
+          }
+        ],
+        "divided": false,
+        "fne": null,
+        "fnw": null,
+        "fse": null,
+        "fsw": null,
+        "bne": null,
+        "bnw": null,
+        "bse": null,
+        "bsw": null
+      }
+    },
+    "fse": {
+      "boundary": {
+        "center": {
+          "x": 750.0,
+          "y": 750.0,
+          "z": -250.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [],
+      "divided": false,
+      "fne": null,
+      "fnw": null,
+      "fse": null,
+      "fsw": null,
+      "bne": null,
+      "bnw": null,
+      "bse": null,
+      "bsw": null
+    },
+    "fsw": {
+      "boundary": {
+        "center": {
+          "x": 250.0,
+          "y": 750.0,
+          "z": -250.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [
+        {
+          "x": 402.41452163397065,
+          "y": 622.2958567184403,
+          "z": -171.91432191005083
+        }
+      ],
+      "divided": false,
+      "fne": null,
+      "fnw": null,
+      "fse": null,
+      "fsw": null,
+      "bne": null,
+      "bnw": null,
+      "bse": null,
+      "bsw": null
+    },
+    "bne": {
+      "boundary": {
+        "center": {
+          "x": 750.0,
+          "y": 250.0,
+          "z": -750.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [],
+      "divided": false,
+      "fne": null,
+      "fnw": null,
+      "fse": null,
+      "fsw": null,
+      "bne": null,
+      "bnw": null,
+      "bse": null,
+      "bsw": null
+    },
+    "bnw": {
+      "boundary": {
+        "center": {
+          "x": 250.0,
+          "y": 250.0,
+          "z": -750.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [
+        {
+          "x": 109.16800126115449,
+          "y": 402.72693918425136,
+          "z": -553.41639893472
+        }
+      ],
+      "divided": false,
+      "fne": null,
+      "fnw": null,
+      "fse": null,
+      "fsw": null,
+      "bne": null,
+      "bnw": null,
+      "bse": null,
+      "bsw": null
+    },
+    "bse": {
+      "boundary": {
+        "center": {
+          "x": 750.0,
+          "y": 750.0,
+          "z": -750.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [],
+      "divided": false,
+      "fne": null,
+      "fnw": null,
+      "fse": null,
+      "fsw": null,
+      "bne": null,
+      "bnw": null,
+      "bse": null,
+      "bsw": null
+    },
+    "bsw": {
+      "boundary": {
+        "center": {
+          "x": 250.0,
+          "y": 750.0,
+          "z": -750.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [],
+      "divided": false,
+      "fne": null,
+      "fnw": null,
+      "fse": null,
+      "fsw": null,
+      "bne": null,
+      "bnw": null,
+      "bse": null,
+      "bsw": null
+    }
+  },
+  "bsw": {
+    "boundary": {
+      "center": {
+        "x": -500.0,
+        "y": 500.0,
+        "z": -500.0
+      },
+      "half_size": 500.0
+    },
+    "capacity": 4,
+    "points": [],
+    "divided": true,
+    "fne": {
+      "boundary": {
+        "center": {
+          "x": -250.0,
+          "y": 250.0,
+          "z": -250.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [
+        {
+          "x": -317.0157262428776,
+          "y": 46.27187310691335,
+          "z": -219.86208992452754
+        },
+        {
+          "x": -23.036048751480813,
+          "y": 92.56979522209558,
+          "z": -70.49024003184186
+        },
+        {
+          "x": -310.6585088126505,
+          "y": 206.31644501318226,
+          "z": -149.99009277392796
+        },
+        {
+          "x": -35.79520078320579,
+          "y": 299.8685485195867,
+          "z": -351.3934128331917
+        }
+      ],
+      "divided": false,
+      "fne": null,
+      "fnw": null,
+      "fse": null,
+      "fsw": null,
+      "bne": null,
+      "bnw": null,
+      "bse": null,
+      "bsw": null
+    },
+    "fnw": {
+      "boundary": {
+        "center": {
+          "x": -750.0,
+          "y": 250.0,
+          "z": -250.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [
+        {
+          "x": -531.73260020106,
+          "y": 18.710971963061514,
+          "z": -428.5494694309777
+        }
+      ],
+      "divided": false,
+      "fne": null,
+      "fnw": null,
+      "fse": null,
+      "fsw": null,
+      "bne": null,
+      "bnw": null,
+      "bse": null,
+      "bsw": null
+    },
+    "fse": {
+      "boundary": {
+        "center": {
+          "x": -250.0,
+          "y": 750.0,
+          "z": -250.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [
+        {
+          "x": -68.37508758731009,
+          "y": 628.1563660305826,
+          "z": -13.496299225472573
+        },
+        {
+          "x": -468.9669215971067,
+          "y": 930.6305372496934,
+          "z": -70.55100804913741
+        }
+      ],
+      "divided": false,
+      "fne": null,
+      "fnw": null,
+      "fse": null,
+      "fsw": null,
+      "bne": null,
+      "bnw": null,
+      "bse": null,
+      "bsw": null
+    },
+    "fsw": {
+      "boundary": {
+        "center": {
+          "x": -750.0,
+          "y": 750.0,
+          "z": -250.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [],
+      "divided": false,
+      "fne": null,
+      "fnw": null,
+      "fse": null,
+      "fsw": null,
+      "bne": null,
+      "bnw": null,
+      "bse": null,
+      "bsw": null
+    },
+    "bne": {
+      "boundary": {
+        "center": {
+          "x": -250.0,
+          "y": 250.0,
+          "z": -750.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [
+        {
+          "x": -134.25997596467954,
+          "y": 329.9046937883541,
+          "z": -540.5332839747496
+        },
+        {
+          "x": -378.0109025070285,
+          "y": 24.55777393782952,
+          "z": -581.0676709773398
+        }
+      ],
+      "divided": false,
+      "fne": null,
+      "fnw": null,
+      "fse": null,
+      "fsw": null,
+      "bne": null,
+      "bnw": null,
+      "bse": null,
+      "bsw": null
+    },
+    "bnw": {
+      "boundary": {
+        "center": {
+          "x": -750.0,
+          "y": 250.0,
+          "z": -750.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [],
+      "divided": false,
+      "fne": null,
+      "fnw": null,
+      "fse": null,
+      "fsw": null,
+      "bne": null,
+      "bnw": null,
+      "bse": null,
+      "bsw": null
+    },
+    "bse": {
+      "boundary": {
+        "center": {
+          "x": -250.0,
+          "y": 750.0,
+          "z": -750.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [],
+      "divided": false,
+      "fne": null,
+      "fnw": null,
+      "fse": null,
+      "fsw": null,
+      "bne": null,
+      "bnw": null,
+      "bse": null,
+      "bsw": null
+    },
+    "bsw": {
+      "boundary": {
+        "center": {
+          "x": -750.0,
+          "y": 750.0,
+          "z": -750.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [],
+      "divided": false,
+      "fne": null,
+      "fnw": null,
+      "fse": null,
+      "fsw": null,
+      "bne": null,
+      "bnw": null,
+      "bse": null,
+      "bsw": null
+    }
+  }
+}
